@@ -2,7 +2,7 @@
 
 Welcome to my Data Analytics portfolio!
 
-This repository showcases the projects I completed during the **Data Analytics Program at Turing College** (July 2025 Cohort). Throughout the program, I worked on real-world business problems using industry-standard analytics tools and techniques, gaining practical experience in data extraction, analysis, visualization, and business storytelling.
+This repository showcases the projects I completed during the **Data Analytics Program at Turing College** (July 2025 Batch). Throughout the program, I worked on real-world business problems using industry-standard analytics tools and techniques, gaining practical experience in data extraction, analysis, visualization, and business storytelling.
 
 ## Skills & Technologies
 
