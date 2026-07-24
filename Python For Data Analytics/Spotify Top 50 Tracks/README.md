@@ -1,40 +1,53 @@
-Spotify Top 50 Tracks – Data Analysis with Python
+# 🎵 Spotify Top 50 Tracks Analysis
 
-Overview
+## Overview
 
-This project analyzes the Spotify Top 50 Tracks dataset using Python.
-The goal is to explore the characteristics of popular songs and understand how different music features relate to each other.
+This project explores the **Spotify Top 50 Tracks** dataset using Python to analyze the characteristics of popular songs and identify patterns in audio features. Through exploratory data analysis (EDA), the project examines relationships between musical attributes and highlights trends among top-performing tracks.
 
-The analysis is performed in a Jupyter Notebook using basic data analysis techniques.
+## Business Value
 
-Files in This Project
+Understanding audio features and listening trends can help music streaming platforms, artists, and record labels:
 
-spotifytoptracks.csv – Dataset containing information about Spotify Top 50 tracks
-spotifyTop50_2020.ipynb – Jupyter Notebook with the data analysis
-README.md – Project documentation
-What This Project Does
+- Identify characteristics of popular songs
+- Understand relationships between audio features
+- Support recommendation systems
+- Inform music production and marketing strategies
+- Gain insights into listener preferences
 
-In the notebook, the following steps are performed:
+## Skills Demonstrated
 
-Load the dataset using Pandas
-Explore the data to understand the structure and features
-Analyze audio features, including:
-Danceability
-Energy
-Loudness
-Acousticness
-Tempo
-Detect outliers in the dataset using the IQR (Interquartile Range) method
-Visualize the data to better understand patterns and relationships
-Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Outlier Detection
+- Data Visualization
 
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-How to Run
+## Analysis Highlights
 
-Download or clone this repository.
-Open the Jupyter Notebook file:
+The project includes:
+
+- Data loading and preprocessing
+- Exploratory data analysis
+- Statistical summary of song attributes
+- Analysis of audio features, including:
+  - Danceability
+  - Energy
+  - Loudness
+  - Acousticness
+  - Tempo
+- Outlier detection using the Interquartile Range (IQR) method
+- Visual exploration of feature distributions and relationships
+
+## Project Files
+
+- **spotifytoptracks.csv** – Spotify Top 50 Tracks dataset
+- **spotifyTop50_2020.ipynb** – Python notebook containing the complete analysis
+- **README.md** – Project documentation
+
+## Getting Started
+
+Clone or download this repository and open **spotifyTop50_2020.ipynb** in Jupyter Notebook or Visual Studio Code to explore the analysis.
